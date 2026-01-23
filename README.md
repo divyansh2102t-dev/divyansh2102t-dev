@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=550&center=true&lines=Hi%2C+I'm+Kanad+Bajpai;AI%2FML+Enthusiast;Innovator+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=550&center=true&lines=Hi%2C+I'm+Divyansh+Tiwari;AI%2FML+Enthusiast;Innovator+%26+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kanadbajpai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/kanad1902_b/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/divyansh-tiwari-45b8b2368/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/divyansh980025/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 ---
