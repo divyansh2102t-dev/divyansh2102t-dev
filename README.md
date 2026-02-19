@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=550&center=true&lines=Hi%2C+I'm+Divyansh+Tiwari;NIT+Surat+CSE'29; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=600&color=30A0F0&width=650&center=true&lines=Hi%2C+I'm+Divyansh+Tiwari;NIT+Surat+CSE'29;Oracle+Certified+GenAI+Professional" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,15 +20,31 @@ I am a Computer Science student at **Sardar Vallabhbhai National Institute of Te
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 🏆 Certifications:
-* **Oracle:** Certified Generative AI Professional.
-* **IBM:** Cybersecurity Fundamentals Certified.
-* **Google:** YouTube and My Business Certified.
-* **Forge:** Vista Equity Partners - AI in Action Job Simulation.
+# 🏆 Certifications & Job Simulations:
+
+### 🧠 Artificial Intelligence & Machine Learning
+* **Oracle Cloud Infrastructure**: 2025 Certified Generative AI Professional.
+* **Oracle Cloud Infrastructure**: 2025 Certified AI Foundations Associate.
+* **Vista Equity Partners**: AI in Action Job Simulation (GenAI & Critical Thinking).
+
+### 🛡️ Cybersecurity & Data Science
+* **IBM**: Cybersecurity Fundamentals Certified.
+* **IBM**: Data Fundamentals Certificate.
+* **IBM**: Getting Started with Cybersecurity.
+* **Hackathon**: Participant in the Echelon Cyber Security Hackathon at NIT Surat.
+
+### 💻 Software Engineering & Management (Job Simulations)
+* **Electronic Arts**: Software Engineering (C++ & Critical Thinking).
+* **Skyscanner**: Front-End Software Engineering (Web Development focus).
+* **Siemens Mobility**: Project Manager Job Simulation.
+
+### 📢 Digital Marketing & Business
+* **Google**: YouTube Certification.
+* **Google**: My Business Certified.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kanadb30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kanadb30&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=divyansh2102t-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=divyansh2102t-dev&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kanadb30&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=divyansh2102t-dev&icon=0&color=0)](https://visitcount.itsvg.in)
