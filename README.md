@@ -43,8 +43,12 @@ I am a Computer Science student at **Sardar Vallabhbhai National Institute of Te
 * **Google**: My Business Certified.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=divyansh2102t-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=divyansh2102t-dev&theme=dark&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=divyansh2102t-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyansh2102t-dev&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=divyansh2102t-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 👁️ Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=divyansh2102t-dev&color=blue&style=for-the-badge&base=100)
