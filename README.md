@@ -13,7 +13,7 @@
 I am a Computer Science student at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat** and an **Oracle Certified Generative AI Professional**. I am passionate about bridging the gap between high-performance algorithms and secure AI systems.
 
 * 🧠 **AI/ML:** Oracle Certified AI Foundations Associate and Generative AI Professional.
-* 💻 **Coding:** Solved **250+ problems on LeetCode** using Python.
+* 💻 **Coding:** Solved **275+ problems on LeetCode** using Python.
 * 🛡️ **Security:** IBM Cybersecurity Fundamentals Certified and participant in the Echelon Cyber Security Hackathon.
 * 🚀 **Community:** Technical Team Member at **Think India** and Web Developer for the **Wellness Club**.
 
